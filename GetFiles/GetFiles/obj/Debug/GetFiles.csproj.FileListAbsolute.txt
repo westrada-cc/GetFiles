@@ -1,0 +1,6 @@
+C:\Users\westrada\documents\visual studio 2013\Projects\GetFiles\GetFiles\bin\Debug\GetFiles.exe.config
+C:\Users\westrada\documents\visual studio 2013\Projects\GetFiles\GetFiles\bin\Debug\GetFiles.exe
+C:\Users\westrada\documents\visual studio 2013\Projects\GetFiles\GetFiles\bin\Debug\GetFiles.pdb
+C:\Users\westrada\documents\visual studio 2013\Projects\GetFiles\GetFiles\obj\Debug\GetFiles.exe
+C:\Users\westrada\documents\visual studio 2013\Projects\GetFiles\GetFiles\obj\Debug\GetFiles.pdb
+C:\Users\westrada\Documents\Visual Studio 2013\Projects\GetFiles\GetFiles\obj\Debug\GetFiles.csprojResolveAssemblyReference.cache
