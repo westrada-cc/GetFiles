@@ -54,6 +54,7 @@ namespace GetFiles
             //Console.WriteLine("Total files checked: {0} : Total Files with INSERT INTO {1}", count, total);
             //removeList();
             Console.WriteLine("Total Files Read {0}", count);
+            Console.WriteLine("=================   DONE!  =============================");
             Console.ReadKey();
         }
 
