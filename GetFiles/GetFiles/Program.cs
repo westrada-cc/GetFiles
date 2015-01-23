@@ -55,6 +55,7 @@ namespace GetFiles
             //removeList();
             Console.WriteLine("Total Files Read {0}", count);
             Console.WriteLine("=================   DONE!  =============================");
+            Console.WriteLine("=================   DONE!! =============================");
             Console.ReadKey();
         }
 
